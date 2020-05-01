@@ -1,9 +1,6 @@
  body{
   margin: 0;
   text-align: center;
-  align-items: center;
-  font-family: sans-serif;
-  background-color: black;
 }
 
 
@@ -12,6 +9,7 @@ h1{
   margin: 0 auto;
   font-family: 'verdana',sans-serif;
   font-size: 1.625rem;
+ width: 100%;
 }
 h2{
   color: black;
@@ -28,21 +26,20 @@ h3{
 
 .containerone{
   background-color: grey;
-  margin: 0,0,10px,0;
+  margin: 0;
+ background-position: center;
+  background-size: cover;
+  width: 100%;
 }
 .containertwo{
   background-color: lightpink;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+  margin: 0;
+ background-position: center;
+  background-size: cover;
+  width: 100%;
 
 
-}
-img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 .containerthree{
   background-color: black;
   width:auto;
