@@ -1,0 +1,68 @@
+ body{
+  margin: 0;
+  text-align: center;
+  align-items: center;
+  font-family: sans-serif;
+  background-color: black;
+}
+
+
+h1{
+  color: black;
+  margin: 0 auto;
+  font-family: 'verdana',sans-serif;
+  font-size: 1.625rem;
+}
+h2{
+  color: black;
+  font-family: 'Monteserrat', sans-serif;
+  font-size: 0.625rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+
+
+}
+h3{
+  color: black;
+}
+
+.containerone{
+  background-color: grey;
+  margin: 0,0,10px,0;
+}
+.containertwo{
+  background-color: lightpink;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.containerthree{
+  background-color: black;
+  width:auto;
+
+}
+.containerfour{
+  background-color: grey;
+  margin: 0,0,10px,0;
+}
+td{
+color: black;
+font-size: 20px;
+}
+p{
+color: black;
+font-family: 'verdana',sans-serif;
+font-size: 20px;
+display: inline-block;
+}
+form{
+  color: grey;
+
+}
