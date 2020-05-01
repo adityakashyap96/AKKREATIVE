@@ -42,12 +42,13 @@ h3{
 
 .containerthree{
   background-color: black;
-  width:auto;
+  width: 100%;
 
 }
 .containerfour{
   background-color: grey;
   margin: 0,0,10px,0;
+ width: 100%;
 }
 td{
 color: black;
