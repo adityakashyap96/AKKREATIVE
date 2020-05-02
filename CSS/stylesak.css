@@ -45,6 +45,10 @@ font-family: 'Lobster', cursive;
   font-weight: lighter;
 
 }
+img{
+  max-width: 100%;
+  height: auto;
+}
 
 h1{
   color: white;
