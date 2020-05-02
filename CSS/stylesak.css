@@ -1,0 +1,130 @@
+body{
+background-color: black;
+margin: 0;
+}
+
+.content{
+  background-color: black;
+  text-align: center;
+  font-size: 2rem;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#about-content{
+  background-color: black;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 1rem;
+}
+h2
+{
+  color: white;
+  font-family: 'Dancing Script', cursive;  text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 2rem;
+
+}
+p
+{
+  background-color: black;
+  width: 100%;
+  font-family: sans-serif;
+font-family: 'Lobster', cursive;
+  color: white;
+  text-align: center;
+  font-weight: lighter;
+
+}
+
+h1{
+  color: white;
+font-family: 'Dancing Script', cursive;  text-decoration: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 2rem;
+}
+
+h4
+{
+  font-family: 'Dancing Script', cursive;  text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+footer{
+  font-size: 10px;
+  font-family: 'Dancing Script', cursive;  text-decoration: none;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+
+.carousel-item img-fluid{
+object-fit: contain;
+width: 100%;
+}
+.carousel-item a{
+  object-fit: contain;
+  width: 100%;
+  position: relative;
+}
+
+
+.nav-link{
+  align-items: center;
+
+}
+.links{
+  background-color: grey;
+
+}
+
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+
+
+.fa-instagram {
+  background: #bb0000;
+  color: white;
+}
